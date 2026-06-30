@@ -1,5 +1,7 @@
 # Brand Icon System
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A staged Agent Skills repository for generating production-ready PNG brand icon systems.
 
 The workflow is intentionally interactive: brief, explore, select, refine, produce, and audit. It is meant for AI agents that can generate PNG images and run local Python scripts.
