@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Logo Produce"
+  short_description: "Export the approved mark as PNG assets"
+  default_prompt: "Use $brand-logo-produce to export the approved logo mark into a complete PNG asset system."

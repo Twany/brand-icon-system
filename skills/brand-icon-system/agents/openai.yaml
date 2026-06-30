@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Icon System"
+  short_description: "Run the staged PNG logo skill suite"
+  default_prompt: "Use $brand-icon-system to run the staged logo suite: brief, explore candidates, pause for selection, refine, produce, and audit."

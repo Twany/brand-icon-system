@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Logo Audit"
+  short_description: "Inspect generated logo assets before handoff"
+  default_prompt: "Use $brand-logo-audit to inspect a generated PNG logo system for production issues."

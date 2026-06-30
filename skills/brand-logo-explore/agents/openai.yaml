@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Logo Explore"
+  short_description: "Generate B&W logo candidates and pause"
+  default_prompt: "Use $brand-logo-explore to generate a black-and-white logo candidate board and stop for selection."

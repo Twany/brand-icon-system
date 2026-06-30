@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Logo Refine"
+  short_description: "Refine a selected candidate into a mark"
+  default_prompt: "Use $brand-logo-refine to turn the selected logo candidate into clean final mark options."
